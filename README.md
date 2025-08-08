@@ -35,11 +35,11 @@
    ```bash
    git clone https://github.com/DongqanZheng/LeetCode-Solutions.git
    cd LeetCode-Solutions
-3. **Contribution Guidelines**
+
 3. **Contribution Guidelines**  
-- Fork this repository  
-- Create a new branch: `feat/problem-no-algorithm`  
-- Follow PEP 8, include complexity analysis and clear comments  
+   - Fork this repository  
+   - Create a new branch: `feat/problem-no-algorithm`  
+   - Follow PEP 8, include complexity analysis and clear comments  
 - Submit a Pull Request with a concise description of your changes
 
 
