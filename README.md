@@ -7,7 +7,7 @@
 所有代码均基于 **Python 3** 实现，每个问题可能包含 **多种解法**（暴力、哈希、双指针、动态规划等），方便对比与学习。
 
 2.克隆仓库  
-```bash：
+bash：
 git clone https://github.com/DongqanZheng/Leetcode-Solutions.git
 cd Leetcode-Solutions
 
