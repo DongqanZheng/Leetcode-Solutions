@@ -6,7 +6,6 @@
 
 ---
 
-## 中文说明
 
 1. 项目简介  
    本项目为 **LeetCode 算法问题** 的解决合集，所有代码均基于 **Python 3** 实现。  
@@ -27,6 +26,7 @@ Fork 本仓库
 This repository aggregates solutions to LeetCode algorithm problems.
 All implementations are written in Python 3 and often include multiple approaches (brute-force, hash map, two-pointer, dynamic programming, etc.) to illustrate different algorithmic ideas and optimization strategies.
 2. Clone the Repository
+```bash
 git clone https://github.com/DongqanZheng/LeetCode-Solutions.git
 cd LeetCode-Solutions
 3. Contribution Guidelines
