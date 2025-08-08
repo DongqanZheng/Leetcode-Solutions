@@ -18,10 +18,10 @@
    cd LeetCode-Solutions
 
 3. **贡献指南**
-   - Fork 本仓库  
-   - 新建分支 `feat/题号-算法`  
-   - 代码需符合 PEP 8，并附复杂度分析与关键注释  
-   - 提交 Pull Request 并描述改动
+- Fork 本仓库  
+- 新建分支 `feat/题号-算法`  
+- 代码需符合 PEP 8，并附复杂度分析与关键注释  
+- 提交 Pull Request 并描述改动
 
 ---
 
@@ -37,10 +37,10 @@
    cd LeetCode-Solutions
 
 3. **Contribution Guidelines**  
-   - Fork this repository  
-   - Create a new branch: `feat/problem-no-algorithm`  
-   - Follow PEP 8, include complexity analysis and clear comments  
-   - Submit a Pull Request with a concise description of your changes
+- Fork this repository  
+- Create a new branch: `feat/problem-no-algorithm`  
+- Follow PEP 8, include complexity analysis and clear comments  
+- Submit a Pull Request with a concise description of your changes
 
 
 License
