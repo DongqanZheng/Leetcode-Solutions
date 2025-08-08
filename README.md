@@ -40,7 +40,7 @@
    - Fork this repository  
    - Create a new branch: `feat/problem-no-algorithm`  
    - Follow PEP 8, include complexity analysis and clear comments  
-- Submit a Pull Request with a concise description of your changes
+   - Submit a Pull Request with a concise description of your changes
 
 
 License
